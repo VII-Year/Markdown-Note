@@ -1,4 +1,4 @@
-# 标题
+# 标题 什么鬼
 
 ## 二级标题
 ### 三级标题
@@ -17,13 +17,16 @@
 3. 文本3
 
 # 链接和图片
-[简书](https://www.jianshu.com)
+[简书](https://www.jianshu.com)  
+
+
+
 ![Mikasa.Ackerman](https://b-ssl.duitang.com/uploads/item/201308/27/20130827041808_fFtZC.jpeg)
 
 # 引用
-> 玫瑰色的你
->你走出千万花的一生
->四季中径自盛放也凋零
+> 玫瑰色的你  
+> 你走出千万花的一生  
+> 四季中径自盛放也凋零
 
 #  粗体和斜体
  正常字体
